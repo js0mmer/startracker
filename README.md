@@ -3,6 +3,7 @@ Code for a barn door star tracker enabling you to take longer exposures of the n
 Runs on a Raspberry Pi connected to a WiFi network, controlled from the [Blynk](https://blynk.io/) app.
 
 ![My sketch](https://i.imgur.com/ZJV0bvF.png)
+![Blynk](https://i.imgur.com/fbsSxXQ.jpg)
 
 Parts:
 - Hinge 3 1/2" wide
